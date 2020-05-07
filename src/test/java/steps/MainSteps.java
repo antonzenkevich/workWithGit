@@ -5,7 +5,7 @@ import net.thucydides.core.steps.ScenarioSteps;
 import pages.MainPage;
 
 public class MainSteps extends ScenarioSteps {
-
+//
     private MainPage onPage;
 
     @Step

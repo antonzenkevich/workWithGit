@@ -8,5 +8,6 @@ public class LoginTest extends SampleTest {
     public void loginTest() {
         user.mainPage.openMainPage();
         user.mainPage.clickOnSignInButton();
+        //
     }
 }
